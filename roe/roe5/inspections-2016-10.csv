@@ -1,0 +1,68 @@
+business_id,date,score,type
+184,2016-10-03,98,Routine - Unscheduled
+256,2016-10-05,,Non-inspection site visit
+1249,2016-10-03,,Reinspection/Followup
+1438,2016-10-04,90,Routine - Unscheduled
+1626,2016-10-03,92,Routine - Unscheduled
+2094,2016-10-04,96,Routine - Unscheduled
+2357,2016-10-03,,Reinspection/Followup
+3185,2016-10-03,96,Routine - Unscheduled
+3256,2016-10-05,87,Routine - Unscheduled
+3256,2016-10-05,,Reinspection/Followup
+3503,2016-10-03,,New Construction
+4538,2016-10-04,90,Routine - Unscheduled
+4656,2016-10-04,,New Construction
+4957,2016-10-03,,Non-inspection site visit
+4960,2016-10-03,89,Routine - Unscheduled
+5010,2016-10-04,86,Routine - Unscheduled
+5090,2016-10-03,82,Routine - Unscheduled
+5150,2016-10-03,,Complaint
+7527,2016-10-04,,Complaint
+9328,2016-10-04,89,Routine - Unscheduled
+19094,2016-10-04,,Complaint
+19094,2016-10-04,94,Routine - Unscheduled
+27056,2016-10-04,82,Routine - Unscheduled
+27793,2016-10-03,,Reinspection/Followup
+27851,2016-10-03,96,Routine - Unscheduled
+33468,2016-10-04,84,Routine - Unscheduled
+35660,2016-10-04,,Non-inspection site visit
+35828,2016-10-04,79,Routine - Unscheduled
+36850,2016-10-05,88,Routine - Unscheduled
+36850,2016-10-05,,Complaint
+57584,2016-10-03,80,Routine - Unscheduled
+60737,2016-10-03,92,Routine - Unscheduled
+66400,2016-10-04,,Non-inspection site visit
+68353,2016-10-03,96,Routine - Unscheduled
+68508,2016-10-04,84,Routine - Unscheduled
+68872,2016-10-04,,Reinspection/Followup
+69282,2016-10-03,83,Routine - Unscheduled
+69682,2016-10-03,88,Routine - Unscheduled
+69682,2016-10-03,,Complaint
+71131,2016-10-05,81,Routine - Unscheduled
+75438,2016-10-02,100,Routine - Unscheduled
+76035,2016-10-04,78,Routine - Unscheduled
+76059,2016-10-02,100,Routine - Unscheduled
+76751,2016-10-02,100,Routine - Unscheduled
+77592,2016-10-02,100,Routine - Unscheduled
+77750,2016-10-03,96,Routine - Unscheduled
+78762,2016-10-03,98,Routine - Unscheduled
+79206,2016-10-03,,Reinspection/Followup
+80137,2016-10-05,92,Routine - Unscheduled
+80288,2016-10-04,87,Routine - Unscheduled
+80587,2016-10-05,83,Routine - Unscheduled
+81116,2016-10-05,,Reinspection/Followup
+81116,2016-10-05,,Complaint
+81368,2016-10-03,,Complaint
+81606,2016-10-04,,Reinspection/Followup
+82687,2016-10-02,100,Routine - Unscheduled
+82926,2016-10-03,96,Routine - Unscheduled
+83087,2016-10-02,100,Routine - Unscheduled
+83811,2016-10-02,100,Routine - Unscheduled
+84109,2016-10-04,100,Routine - Unscheduled
+85005,2016-10-02,100,Routine - Unscheduled
+85972,2016-10-05,75,Routine - Unscheduled
+86189,2016-10-04,,Reinspection/Followup
+86233,2016-10-02,100,Routine - Unscheduled
+86386,2016-10-03,,Reinspection/Followup
+87486,2016-10-02,100,Routine - Unscheduled
+88575,2016-10-04,86,Routine - Unscheduled

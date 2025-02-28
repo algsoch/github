@@ -1,0 +1,518 @@
+business_id,date,score,type
+208,2015-09-28,,Non-inspection site visit
+256,2015-09-08,100,Routine - Unscheduled
+268,2015-09-03,94,Routine - Unscheduled
+268,2015-09-03,,Complaint
+315,2015-09-29,94,Routine - Unscheduled
+415,2015-09-03,87,Routine - Unscheduled
+415,2015-09-24,,Reinspection/Followup
+422,2015-09-18,92,Routine - Unscheduled
+485,2015-09-23,98,Routine - Unscheduled
+500,2015-09-30,86,Routine - Unscheduled
+527,2015-09-08,,Non-inspection site visit
+615,2015-09-14,100,Routine - Unscheduled
+811,2015-09-28,96,Routine - Unscheduled
+905,2015-09-03,94,Routine - Unscheduled
+935,2015-09-28,85,Routine - Unscheduled
+1000,2015-09-02,,Non-inspection site visit
+1048,2015-09-01,85,Routine - Unscheduled
+1065,2015-09-22,,Reinspection/Followup
+1085,2015-09-15,,New Construction
+1203,2015-09-24,92,Routine - Unscheduled
+1289,2015-09-23,79,Routine - Unscheduled
+1322,2015-09-01,,New Construction
+1516,2015-09-14,91,Routine - Unscheduled
+1516,2015-09-20,,Reinspection/Followup
+1517,2015-09-20,,Reinspection/Followup
+1778,2015-09-17,,New Construction
+1788,2015-09-09,87,Routine - Unscheduled
+1927,2015-09-24,,Non-inspection site visit
+1978,2015-09-03,79,Routine - Unscheduled
+1978,2015-09-11,,Reinspection/Followup
+1992,2015-09-23,,Complaint
+1994,2015-09-14,92,Routine - Unscheduled
+2008,2015-09-01,,Reinspection/Followup
+2008,2015-09-15,,Reinspection/Followup
+2035,2015-09-23,60,Routine - Unscheduled
+2035,2015-09-24,,Reinspection/Followup
+2066,2015-09-01,,Complaint
+2085,2015-09-17,82,Routine - Unscheduled
+2156,2015-09-21,,Complaint
+2256,2015-09-08,,New Construction
+2309,2015-09-11,,Reinspection/Followup
+2309,2015-09-18,,Reinspection/Followup
+2309,2015-09-23,,Complaint
+2358,2015-09-02,85,Routine - Unscheduled
+2397,2015-09-15,79,Routine - Unscheduled
+2505,2015-09-16,,Complaint
+2535,2015-09-14,,New Construction
+2589,2015-09-28,,Foodborne Illness Investigation
+2619,2015-09-03,,Foodborne Illness Investigation
+2619,2015-09-03,78,Routine - Unscheduled
+2643,2015-09-24,98,Routine - Unscheduled
+2689,2015-09-30,96,Routine - Unscheduled
+2721,2015-09-16,79,Routine - Unscheduled
+2805,2015-09-16,100,Routine - Unscheduled
+2823,2015-09-29,100,Routine - Unscheduled
+2880,2015-09-03,89,Routine - Unscheduled
+2944,2015-09-09,,New Construction
+2945,2015-09-21,,Complaint
+2945,2015-09-21,,Reinspection/Followup
+2945,2015-09-21,75,Routine - Unscheduled
+2945,2015-09-30,,Reinspection/Followup
+2971,2015-09-14,96,Routine - Unscheduled
+2984,2015-09-29,96,Routine - Unscheduled
+2984,2015-09-29,,Complaint
+3055,2015-09-21,,New Construction
+3112,2015-09-14,100,Routine - Unscheduled
+3118,2015-09-29,96,Routine - Unscheduled
+3123,2015-09-01,,Reinspection/Followup
+3165,2015-09-01,86,Routine - Unscheduled
+3165,2015-09-01,,Complaint
+3165,2015-09-25,,Reinspection/Followup
+3218,2015-09-15,,Complaint Reinspection/Followup
+3221,2015-09-15,68,Routine - Unscheduled
+3229,2015-09-14,84,Routine - Unscheduled
+3256,2015-09-30,98,Routine - Unscheduled
+3425,2015-09-16,,Complaint
+3443,2015-09-08,90,Routine - Unscheduled
+3443,2015-09-15,,Reinspection/Followup
+3444,2015-09-08,92,Routine - Unscheduled
+3495,2015-09-09,,Complaint
+3495,2015-09-09,96,Routine - Unscheduled
+3591,2015-09-14,92,Routine - Unscheduled
+3655,2015-09-29,100,Routine - Unscheduled
+3738,2015-09-08,91,Routine - Unscheduled
+3738,2015-09-18,,Reinspection/Followup
+3738,2015-09-29,,Complaint
+3743,2015-09-29,94,Routine - Unscheduled
+3784,2015-09-30,,Complaint
+3867,2015-09-22,98,Routine - Unscheduled
+3895,2015-09-01,,Reinspection/Followup
+4479,2015-09-01,85,Routine - Unscheduled
+4479,2015-09-15,,Reinspection/Followup
+4500,2015-09-16,92,Routine - Unscheduled
+4584,2015-09-23,92,Routine - Unscheduled
+4746,2015-09-21,75,Routine - Unscheduled
+4817,2015-09-28,90,Routine - Unscheduled
+4900,2015-09-14,,Reinspection/Followup
+4983,2015-09-16,86,Routine - Unscheduled
+5077,2015-09-14,100,Routine - Unscheduled
+5124,2015-09-04,90,Routine - Unscheduled
+5291,2015-09-03,,Reinspection/Followup
+5606,2015-09-14,100,Routine - Unscheduled
+5913,2015-09-11,96,Routine - Unscheduled
+5927,2015-09-23,96,Routine - Unscheduled
+5938,2015-09-23,76,Routine - Unscheduled
+5946,2015-09-09,98,Routine - Unscheduled
+5961,2015-09-24,98,Routine - Unscheduled
+5962,2015-09-23,98,Routine - Unscheduled
+6768,2015-09-16,87,Routine - Unscheduled
+6904,2015-09-04,96,Routine - Unscheduled
+7210,2015-09-01,92,Routine - Unscheduled
+7361,2015-09-22,85,Routine - Unscheduled
+7519,2015-09-10,93,Routine - Unscheduled
+7641,2015-09-04,,Reinspection/Followup
+7689,2015-09-18,,Complaint
+7728,2015-09-10,100,Routine - Unscheduled
+8251,2015-09-03,100,Routine - Unscheduled
+8251,2015-09-03,,Complaint
+8251,2015-09-23,,Complaint
+9103,2015-09-17,,Reinspection/Followup
+9103,2015-09-17,,Complaint
+9103,2015-09-17,96,Routine - Unscheduled
+9273,2015-09-03,86,Routine - Unscheduled
+9273,2015-09-10,,Reinspection/Followup
+9328,2015-09-03,88,Routine - Unscheduled
+9599,2015-09-23,,New Construction
+9599,2015-09-29,,New Construction
+10102,2015-09-14,54,Routine - Unscheduled
+10102,2015-09-15,,Reinspection/Followup
+10102,2015-09-17,,Reinspection/Followup
+11416,2015-09-28,96,Routine - Unscheduled
+13838,2015-09-28,96,Routine - Unscheduled
+14429,2015-09-03,91,Routine - Unscheduled
+14429,2015-09-21,,Reinspection/Followup
+16349,2015-09-11,94,Routine - Unscheduled
+17647,2015-09-04,,Complaint
+17822,2015-09-25,91,Routine - Unscheduled
+18369,2015-09-22,70,Routine - Unscheduled
+18369,2015-09-22,,Complaint
+18728,2015-09-01,84,Routine - Unscheduled
+18755,2015-09-24,87,Routine - Unscheduled
+18815,2015-09-30,94,Routine - Unscheduled
+21982,2015-09-03,,Reinspection/Followup
+25777,2015-09-09,89,Routine - Unscheduled
+27167,2015-09-28,71,Routine - Unscheduled
+27167,2015-09-28,,Complaint
+30156,2015-09-14,89,Routine - Unscheduled
+30532,2015-09-23,,Reinspection/Followup
+32200,2015-09-24,90,Routine - Unscheduled
+32625,2015-09-21,98,Routine - Unscheduled
+32698,2015-09-01,,Reinspection/Followup
+32698,2015-09-25,,Complaint
+32887,2015-09-22,,Foodborne Illness Investigation
+32919,2015-09-30,84,Routine - Unscheduled
+33709,2015-09-08,,New Construction
+33709,2015-09-10,,New Construction
+33709,2015-09-11,,New Construction
+34102,2015-09-23,,Complaint
+34505,2015-09-22,94,Routine - Unscheduled
+35240,2015-09-30,85,Routine - Unscheduled
+35359,2015-09-30,96,Routine - Unscheduled
+35447,2015-09-11,67,Routine - Unscheduled
+36020,2015-09-30,84,Routine - Unscheduled
+36022,2015-09-10,,Reinspection/Followup
+36024,2015-09-04,92,Routine - Unscheduled
+36451,2015-09-02,100,Routine - Unscheduled
+36547,2015-09-01,,New Construction
+36635,2015-09-14,83,Routine - Unscheduled
+37038,2015-09-11,,Reinspection/Followup
+37234,2015-09-16,89,Routine - Unscheduled
+37304,2015-09-03,,Reinspection/Followup
+37389,2015-09-15,80,Routine - Unscheduled
+38797,2015-09-30,91,Routine - Unscheduled
+39398,2015-09-29,92,Routine - Unscheduled
+39401,2015-09-08,96,Routine - Unscheduled
+39426,2015-09-24,64,Routine - Unscheduled
+39608,2015-09-18,,Complaint
+39824,2015-09-24,84,Routine - Unscheduled
+40001,2015-09-29,,Reinspection/Followup
+58574,2015-09-11,87,Routine - Unscheduled
+59066,2015-09-21,100,Routine - Unscheduled
+59141,2015-09-14,,Reinspection/Followup
+59515,2015-09-02,72,Routine - Unscheduled
+59515,2015-09-03,,Reinspection/Followup
+59515,2015-09-10,,Reinspection/Followup
+59935,2015-09-08,,Reinspection/Followup
+59986,2015-09-10,89,Routine - Unscheduled
+59986,2015-09-21,,Reinspection/Followup
+60115,2015-09-04,,Reinspection/Followup
+60210,2015-09-10,94,Routine - Unscheduled
+60254,2015-09-01,94,Routine - Unscheduled
+60334,2015-09-18,,Complaint
+60355,2015-09-15,71,Routine - Unscheduled
+60445,2015-09-29,96,Routine - Unscheduled
+60602,2015-09-01,,Reinspection/Followup
+60789,2015-09-22,78,Routine - Unscheduled
+60789,2015-09-22,,Complaint
+60823,2015-09-10,86,Routine - Unscheduled
+60824,2015-09-10,100,Routine - Unscheduled
+60825,2015-09-10,89,Routine - Unscheduled
+60984,2015-09-10,90,Routine - Unscheduled
+61056,2015-09-24,93,Routine - Unscheduled
+61058,2015-09-03,96,Routine - Unscheduled
+61073,2015-09-29,91,Routine - Unscheduled
+61093,2015-09-11,,Non-inspection site visit
+61436,2015-09-28,87,Routine - Unscheduled
+61516,2015-09-08,87,Routine - Unscheduled
+61516,2015-09-23,,Non-inspection site visit
+61697,2015-09-03,,Reinspection/Followup
+62051,2015-09-04,,Reinspection/Followup
+62072,2015-09-04,,Reinspection/Followup
+62251,2015-09-17,100,Routine - Unscheduled
+62702,2015-09-14,,Routine - Scheduled
+62784,2015-09-08,96,Routine - Unscheduled
+62797,2015-09-03,,Foodborne Illness Investigation
+62797,2015-09-03,100,Routine - Unscheduled
+62900,2015-09-29,69,Routine - Unscheduled
+63082,2015-09-30,84,Routine - Unscheduled
+63489,2015-09-01,,New Construction
+63489,2015-09-09,,New Construction
+63489,2015-09-10,,New Construction
+64007,2015-09-16,86,Routine - Unscheduled
+64161,2015-09-04,82,Routine - Unscheduled
+64176,2015-09-18,,Complaint
+64176,2015-09-18,,Complaint
+64176,2015-09-25,,Complaint
+64236,2015-09-16,84,Routine - Unscheduled
+64466,2015-09-03,86,Routine - Unscheduled
+64466,2015-09-11,,Reinspection/Followup
+64835,2015-09-22,72,Routine - Unscheduled
+64843,2015-09-25,,Reinspection/Followup
+64859,2015-09-24,91,Routine - Unscheduled
+64859,2015-09-24,96,Routine - Unscheduled
+65245,2015-09-16,94,Routine - Unscheduled
+65485,2015-09-02,91,Routine - Unscheduled
+65485,2015-09-03,,Reinspection/Followup
+65622,2015-09-23,,Complaint
+65622,2015-09-23,100,Routine - Unscheduled
+65830,2015-09-03,,Reinspection/Followup
+66684,2015-09-30,96,Routine - Unscheduled
+66771,2015-09-30,87,Routine - Unscheduled
+67075,2015-09-04,,Reinspection/Followup
+67093,2015-09-29,100,Routine - Unscheduled
+67167,2015-09-03,,Reinspection/Followup
+67184,2015-09-30,94,Routine - Unscheduled
+67330,2015-09-15,,Non-inspection site visit
+67330,2015-09-29,,Complaint
+67330,2015-09-29,,Complaint
+67330,2015-09-29,68,Routine - Unscheduled
+67587,2015-09-14,93,Routine - Unscheduled
+67617,2015-09-15,100,Routine - Unscheduled
+67743,2015-09-16,83,Routine - Unscheduled
+67743,2015-09-24,,Reinspection/Followup
+67869,2015-09-08,90,Routine - Unscheduled
+67869,2015-09-18,,Reinspection/Followup
+67920,2015-09-08,77,Routine - Unscheduled
+68295,2015-09-24,96,Routine - Unscheduled
+68508,2015-09-02,90,Routine - Unscheduled
+68813,2015-09-28,,Reinspection/Followup
+69045,2015-09-20,,Reinspection/Followup
+69118,2015-09-22,75,Routine - Unscheduled
+69118,2015-09-30,,Reinspection/Followup
+69172,2015-09-29,83,Routine - Unscheduled
+69324,2015-09-01,87,Routine - Unscheduled
+69324,2015-09-10,,Reinspection/Followup
+69466,2015-09-23,92,Routine - Unscheduled
+69717,2015-09-22,69,Routine - Unscheduled
+69717,2015-09-22,,Complaint
+69792,2015-09-23,90,Routine - Unscheduled
+69984,2015-09-23,100,Routine - Unscheduled
+70019,2015-09-02,92,Routine - Unscheduled
+70019,2015-09-15,,Reinspection/Followup
+70207,2015-09-08,96,Routine - Unscheduled
+70603,2015-09-29,96,Routine - Unscheduled
+70604,2015-09-29,92,Routine - Unscheduled
+70605,2015-09-29,100,Routine - Unscheduled
+70713,2015-09-11,92,Routine - Unscheduled
+70939,2015-09-29,,New Construction
+71065,2015-09-14,82,Routine - Unscheduled
+71065,2015-09-14,,Complaint
+71071,2015-09-18,59,Routine - Unscheduled
+71071,2015-09-21,,Reinspection/Followup
+71071,2015-09-21,,Reinspection/Followup
+71081,2015-09-24,98,Routine - Unscheduled
+71087,2015-09-11,,Complaint
+71131,2015-09-30,86,Routine - Unscheduled
+71287,2015-09-11,,Complaint
+71287,2015-09-21,78,Routine - Unscheduled
+71287,2015-09-22,,Reinspection/Followup
+71328,2015-09-11,,Reinspection/Followup
+71460,2015-09-17,100,Routine - Unscheduled
+71723,2015-09-17,100,Routine - Unscheduled
+71804,2015-09-02,,Non-inspection site visit
+71804,2015-09-21,,Complaint
+71946,2015-09-21,80,Routine - Unscheduled
+73799,2015-09-24,,Non-inspection site visit
+73860,2015-09-23,96,Routine - Unscheduled
+73871,2015-09-01,80,Routine - Unscheduled
+73871,2015-09-02,,Reinspection/Followup
+73871,2015-09-29,,Reinspection/Followup
+74168,2015-09-29,,Reinspection/Followup
+74178,2015-09-15,100,Routine - Unscheduled
+74202,2015-09-01,98,Routine - Unscheduled
+74240,2015-09-10,96,Routine - Unscheduled
+74481,2015-09-24,96,Routine - Unscheduled
+74674,2015-09-01,,Reinspection/Followup
+74956,2015-09-15,83,Routine - Unscheduled
+74975,2015-09-23,87,Routine - Unscheduled
+74995,2015-09-23,100,Routine - Unscheduled
+75139,2015-09-01,,Reinspection/Followup
+75230,2015-09-16,66,Routine - Unscheduled
+75302,2015-09-03,81,Routine - Unscheduled
+75302,2015-09-28,,Reinspection/Followup
+75303,2015-09-15,,Non-inspection site visit
+75303,2015-09-25,100,Routine - Unscheduled
+75836,2015-09-04,98,Routine - Unscheduled
+75853,2015-09-18,96,Routine - Unscheduled
+75853,2015-09-29,,Reinspection/Followup
+76230,2015-09-14,96,Routine - Unscheduled
+76230,2015-09-20,,Reinspection/Followup
+76233,2015-09-20,,Reinspection/Followup
+76355,2015-09-20,,Reinspection/Followup
+76436,2015-09-24,,Reinspection/Followup
+76436,2015-09-24,,Complaint
+76510,2015-09-04,,Complaint
+76633,2015-09-08,89,Routine - Unscheduled
+76962,2015-09-10,82,Routine - Unscheduled
+76962,2015-09-21,,Reinspection/Followup
+77177,2015-09-23,85,Routine - Unscheduled
+77430,2015-09-01,92,Routine - Unscheduled
+77550,2015-09-09,94,Routine - Unscheduled
+77651,2015-09-23,90,Routine - Unscheduled
+77693,2015-09-08,83,Routine - Unscheduled
+77693,2015-09-24,,Reinspection/Followup
+77713,2015-09-29,,Non-inspection site visit
+77760,2015-09-30,,Reinspection/Followup
+77760,2015-09-30,,Complaint
+77760,2015-09-30,96,Routine - Unscheduled
+78061,2015-09-16,,New Construction
+78289,2015-09-28,,Non-inspection site visit
+78371,2015-09-20,,Reinspection/Followup
+78372,2015-09-20,,Reinspection/Followup
+78406,2015-09-11,89,Routine - Unscheduled
+78406,2015-09-12,,Reinspection/Followup
+78406,2015-09-15,,Reinspection/Followup
+78406,2015-09-25,,Reinspection/Followup
+78501,2015-09-09,90,Routine - Unscheduled
+78501,2015-09-24,,Reinspection/Followup
+78563,2015-09-15,90,Routine - Unscheduled
+78656,2015-09-20,,Reinspection/Followup
+78705,2015-09-28,,New Construction
+78793,2015-09-30,,New Construction
+78934,2015-09-30,94,Routine - Unscheduled
+79146,2015-09-20,,Reinspection/Followup
+79345,2015-09-25,,Reinspection/Followup
+79589,2015-09-20,,Reinspection/Followup
+79595,2015-09-10,100,Routine - Unscheduled
+79595,2015-09-10,,New Ownership
+79632,2015-09-02,93,Routine - Unscheduled
+79632,2015-09-09,,Reinspection/Followup
+79782,2015-09-22,94,Routine - Unscheduled
+79888,2015-09-16,94,Routine - Unscheduled
+79892,2015-09-25,,Complaint
+79906,2015-09-20,,Reinspection/Followup
+79946,2015-09-24,,Non-inspection site visit
+79961,2015-09-01,,Reinspection/Followup
+79961,2015-09-08,,Reinspection/Followup
+79961,2015-09-15,,Reinspection/Followup
+79989,2015-09-21,85,Routine - Unscheduled
+80006,2015-09-16,96,Routine - Unscheduled
+80136,2015-09-25,,Non-inspection site visit
+80137,2015-09-30,98,Routine - Unscheduled
+80405,2015-09-25,100,Routine - Unscheduled
+80451,2015-09-11,,Reinspection/Followup
+80487,2015-09-17,96,Routine - Unscheduled
+80585,2015-09-08,,New Construction
+80585,2015-09-22,,New Construction
+80682,2015-09-18,,Complaint
+80767,2015-09-04,,Reinspection/Followup
+80901,2015-09-23,100,Routine - Unscheduled
+81116,2015-09-18,,Reinspection/Followup
+81134,2015-09-14,,Complaint
+81134,2015-09-14,90,Routine - Unscheduled
+81140,2015-09-25,94,Routine - Unscheduled
+81269,2015-09-24,,Non-inspection site visit
+81287,2015-09-21,96,Routine - Unscheduled
+81302,2015-09-15,,New Construction
+81303,2015-09-02,84,Routine - Unscheduled
+81303,2015-09-02,,New Ownership
+81303,2015-09-18,,Reinspection/Followup
+81303,2015-09-18,,New Ownership
+81475,2015-09-30,,New Construction
+81716,2015-09-03,,New Ownership
+81716,2015-09-24,,Reinspection/Followup
+81866,2015-09-01,,Reinspection/Followup
+81938,2015-09-25,,New Construction
+81992,2015-09-22,98,Routine - Unscheduled
+82036,2015-09-20,,Reinspection/Followup
+82037,2015-09-10,90,Routine - Unscheduled
+82111,2015-09-24,,Reinspection/Followup
+82290,2015-09-10,92,Routine - Unscheduled
+82290,2015-09-10,,New Ownership
+82373,2015-09-10,,Complaint
+82395,2015-09-30,94,Routine - Unscheduled
+82413,2015-09-25,,Complaint
+82571,2015-09-09,,New Ownership
+82636,2015-09-15,,Reinspection/Followup
+82803,2015-09-10,100,Routine - Unscheduled
+82803,2015-09-18,,Reinspection/Followup
+82892,2015-09-16,,New Construction
+82892,2015-09-30,,Routine - Unscheduled
+82926,2015-09-09,,New Construction
+82926,2015-09-09,,New Ownership
+82945,2015-09-22,,Reinspection/Followup
+83048,2015-09-23,,New Ownership
+83048,2015-09-23,,Reinspection/Followup
+83062,2015-09-24,,New Construction
+83369,2015-09-09,,New Ownership
+83409,2015-09-10,,New Construction
+83409,2015-09-17,,New Ownership
+83423,2015-09-30,,New Ownership
+83449,2015-09-11,100,Routine - Unscheduled
+83459,2015-09-30,,New Ownership
+83476,2015-09-16,,Complaint
+83476,2015-09-18,,Complaint
+83497,2015-09-09,92,Routine - Unscheduled
+83497,2015-09-09,,Complaint
+83520,2015-09-15,93,Routine - Unscheduled
+83566,2015-09-24,,New Ownership
+83587,2015-09-24,,New Construction
+83612,2015-09-18,,New Construction
+83612,2015-09-24,,New Construction
+83612,2015-09-25,,New Construction
+83647,2015-09-01,,New Ownership
+83647,2015-09-09,,New Ownership
+83647,2015-09-23,,New Ownership
+83647,2015-09-29,,New Ownership
+83647,2015-09-29,78,Routine - Unscheduled
+83708,2015-09-18,100,Routine - Unscheduled
+83708,2015-09-18,,New Ownership
+83727,2015-09-30,96,Routine - Unscheduled
+83744,2015-09-25,,New Construction
+83779,2015-09-10,,New Ownership
+83779,2015-09-11,,New Ownership
+83799,2015-09-30,,New Ownership
+83799,2015-09-30,,New Ownership
+83800,2015-09-29,,New Ownership
+83802,2015-09-24,,New Construction
+83804,2015-09-17,,New Construction
+83821,2015-09-25,,Complaint
+83823,2015-09-01,,New Ownership
+83844,2015-09-30,78,Routine - Unscheduled
+83927,2015-09-16,,New Construction
+83927,2015-09-18,,New Construction
+83927,2015-09-24,100,Routine - Unscheduled
+83930,2015-09-22,,New Ownership
+83945,2015-09-17,,Reinspection/Followup
+83945,2015-09-17,,New Ownership
+83990,2015-09-15,98,Routine - Unscheduled
+83995,2015-09-08,,New Ownership
+83995,2015-09-29,,New Ownership
+83998,2015-09-01,,New Construction
+83998,2015-09-08,,New Construction
+83998,2015-09-11,,New Construction
+84037,2015-09-18,,New Ownership
+84037,2015-09-18,96,Routine - Unscheduled
+84038,2015-09-25,,New Construction
+84040,2015-09-15,,New Construction
+84040,2015-09-17,,New Construction
+84195,2015-09-03,,New Ownership
+84195,2015-09-03,94,Routine - Unscheduled
+84195,2015-09-24,,New Ownership
+84446,2015-09-25,,New Construction
+84453,2015-09-11,100,Routine - Unscheduled
+84502,2015-09-10,,New Construction
+84518,2015-09-01,,New Ownership
+84558,2015-09-08,,New Construction
+84581,2015-09-21,,New Ownership
+84581,2015-09-21,,Non-inspection site visit
+84581,2015-09-24,,New Ownership
+84581,2015-09-24,,Reinspection/Followup
+84589,2015-09-15,,New Construction
+84589,2015-09-18,,New Construction
+84619,2015-09-01,,New Ownership
+84619,2015-09-01,,New Construction
+84619,2015-09-03,,New Ownership
+84656,2015-09-29,,New Ownership
+84656,2015-09-29,67,Routine - Unscheduled
+84657,2015-09-18,,New Ownership
+84690,2015-09-09,,New Construction
+84690,2015-09-24,,New Construction
+84690,2015-09-25,,New Construction
+84692,2015-09-24,,New Ownership
+84708,2015-09-02,,New Construction
+84708,2015-09-03,,New Construction
+84708,2015-09-04,,New Construction
+84708,2015-09-16,,New Construction
+84711,2015-09-24,100,Routine - Unscheduled
+84726,2015-09-08,,New Construction
+84793,2015-09-01,,New Construction
+84793,2015-09-24,,New Construction
+84811,2015-09-16,,New Construction
+84856,2015-09-18,94,Routine - Unscheduled
+84856,2015-09-18,,New Ownership
+84856,2015-09-28,,Reinspection/Followup
+84878,2015-09-15,,New Construction
+84887,2015-09-16,,New Ownership
+84922,2015-09-04,,New Construction
+84922,2015-09-15,,New Construction
+84922,2015-09-17,,New Ownership
+84941,2015-09-25,,New Ownership
+84961,2015-09-09,,New Construction
+84961,2015-09-22,,New Construction
+84971,2015-09-14,,New Construction
+85049,2015-09-23,,New Construction
+85109,2015-09-24,,New Ownership
+85135,2015-09-30,,New Ownership
